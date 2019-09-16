@@ -1,0 +1,9 @@
+************** file0.txt ***************
+************** file1.txt ***************
+************** file2.txt ***************
+Error opening fileError opening file************** file3.txt ***************
+Error opening file************** file4.txt ***************
+Error opening file************** file5.txt ***************
+Error opening file************** file6.txt ***************
+Error opening file************** file7.txt ***************
+Error opening fileError opening file

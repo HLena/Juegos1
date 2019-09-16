@@ -1,0 +1,63 @@
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+file5.txt
+file6.txt
+file7.txt
+file8.txt
+file9.txt
+file10.txt
+time:0.0003964
+2013: (3) file3.txt file4.txt file7.txt 
+2019: (3) file1.txt file2.txt file5.txt 
+ASUS: (6) file1.txt file2.txt file3.txt file4.txt file5.txt file7.txt 
+Adidas: (3) file1.txt file2.txt file5.txt 
+Amazon: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt 
+Amazonia: (3) file1.txt file2.txt file5.txt 
+Android: (1) file6.txt 
+App: (1) file6.txt 
+Apple: (3) file1.txt file5.txt file9.txt 
+Arequipa: (3) file1.txt file5.txt file9.txt 
+Azure: (8) file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt file9.txt 
+BigData: (3) file3.txt file4.txt file7.txt 
+Bluetooh: (1) file6.txt 
+Brasil: (1) file2.txt 
+Ciencia: (1) file2.txt 
+Claro: (4) file3.txt file4.txt file6.txt file7.txt 
+Creer: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt 
+Cuzco: (1) file2.txt 
+DataCentral: (2) file1.txt file5.txt 
+Datos: (5) file2.txt file3.txt file4.txt file6.txt file7.txt 
+Drive: (1) file6.txt 
+Earth: (3) file3.txt file4.txt file7.txt 
+Etica: (1) file6.txt 
+Firework: (3) file3.txt file4.txt file6.txt 
+Linux: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt 
+MPI: (5) file2.txt file3.txt file4.txt file6.txt file7.txt 
+Mause: (4) file3.txt file4.txt file6.txt file7.txt 
+Megas: (1) file6.txt 
+Microsoft: (3) file1.txt file2.txt file5.txt 
+Moviles: (1) file6.txt 
+NUBE: (1) file2.txt 
+Network: (4) file3.txt file4.txt file6.txt file7.txt 
+Nike: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt 
+OpenMP: (3) file1.txt file5.txt file9.txt 
+OpenSource: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file7.txt file9.txt 
+Peru: (3) file1.txt file5.txt file9.txt 
+Puma: (3) file3.txt file4.txt file7.txt 
+Red: (4) file3.txt file4.txt file6.txt file7.txt 
+Seguridad: (1) file6.txt 
+Servidor: (1) file6.txt 
+UNSA: (7) file1.txt file2.txt file3.txt file4.txt file5.txt file7.txt file9.txt 
+Videojuegos: (3) file3.txt file4.txt file7.txt 
+WAN: (1) file2.txt 
+WLAN: (3) file3.txt file4.txt file7.txt 
+Windows: (1) file2.txt 
+bits: (4) file2.txt file3.txt file4.txt file7.txt 
+bytes: (3) file1.txt file5.txt file9.txt 
+cloudComputing: (3) file1.txt file5.txt file9.txt 
+computerScience: (3) file1.txt file5.txt file9.txt 
+hp: (1) file6.txt 
+laptops: (3) file1.txt file5.txt file9.txt 
+wifi: (4) file1.txt file2.txt file5.txt file9.txt 
